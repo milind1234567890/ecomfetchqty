@@ -1,0 +1,2 @@
+name= komal
+print("hi")
